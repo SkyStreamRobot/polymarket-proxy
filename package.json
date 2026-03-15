@@ -1,0 +1,13 @@
+{
+  "name": "polymarket-proxy",
+  "version": "1.0.0",
+  "description": "CORS proxy for Polymarket Gamma API - Coolify/Docker deploy",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
